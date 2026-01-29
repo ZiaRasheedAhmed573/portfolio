@@ -56,8 +56,10 @@ All-in-one event management platform exclusively for Fulda University community,
 
 #### 🖼️ Screenshots
 <img width="1920" height="2791" alt="image" src="https://github.com/user-attachments/assets/e01c7d7e-ba20-40db-8ef5-e7d182ffdcd7" />
-
-> *Coming soon - Screenshots of dashboard, event creation, and chat features*
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/907d9024-139a-4b86-8145-c836a79f8810" />
+<img width="1920" height="1243" alt="image" src="https://github.com/user-attachments/assets/c653eebf-198c-4b2a-84c0-76ddf55c6a37" />
+<img width="1920" height="1493" alt="image" src="https://github.com/user-attachments/assets/edcec910-8792-4761-96ba-b3c62cdc046f" />
+<img width="1910" height="937" alt="image" src="https://github.com/user-attachments/assets/b97f6a44-152d-4d26-a68b-e2c56b76e59a" />
 
 ---
 
