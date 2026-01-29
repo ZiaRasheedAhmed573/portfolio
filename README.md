@@ -55,6 +55,8 @@ All-in-one event management platform exclusively for Fulda University community,
 - ✅ Enabled data-driven improvements via attendance tracking and feedback
 
 #### 🖼️ Screenshots
+<img width="1920" height="2791" alt="image" src="https://github.com/user-attachments/assets/e01c7d7e-ba20-40db-8ef5-e7d182ffdcd7" />
+
 > *Coming soon - Screenshots of dashboard, event creation, and chat features*
 
 ---
