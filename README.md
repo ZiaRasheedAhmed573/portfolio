@@ -215,7 +215,7 @@ Usman Institute of Technology | 2018 - 2022 | Karachi, Pakistan
 - 💼 **LinkedIn:** [linkedin.com/in/zia-rasheed-ahmed](https://linkedin.com/in/zia-rasheed-ahmed)
 - 🐙 **GitHub:** [github.com/ZiaRasheedAhmed](https://github.com/ZiaRasheedAhmed) | [github.com/ZiaRasheedAhmed573](https://github.com/ZiaRasheedAhmed573)
 - 📱 **Phone:** +49 157 52629792
-- 📍 **Location:** Germany (Available for positions in Düsseldorf and surrounding areas)
+- 📍 **Location:** Germany (Available for positions in Frankfurt and surrounding areas)
 - 🌐 **Languages:** English (Business Fluency), Urdu (Native), German (Beginner)
 
 ---
