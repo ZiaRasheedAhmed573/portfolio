@@ -164,10 +164,10 @@ Admin and physiotherapist dashboard built from scratch for healthcare management
 ## 🛠️ Technical Skills
 
 ### Frontend Development
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-Advanced-764ABC?logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/React-Intermediate-61DAFB?logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-Intermediate-764ABC?logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=black)
 
 - **Frameworks & Libraries:** React.js, Redux (state management), React Router
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
@@ -188,8 +188,8 @@ Admin and physiotherapist dashboard built from scratch for healthcare management
 - **Quality Standards:** Clean Code principles, SOLID principles
 
 ### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Advanced-181717?logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Intermediate-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Intermediate-181717?logo=github&logoColor=white)
 
 - **Version Control:** Git, GitHub (collaborative workflows)
 - **Agile Methodologies:** Daily stand-ups, Sprint planning, Retrospectives, Code reviews
@@ -222,7 +222,7 @@ Usman Institute of Technology | 2018 - 2022 | Karachi, Pakistan
 
 ## 🌟 Currently Seeking
 
-**Full-time Junior/Mid-level React Frontend Developer positions** in Germany, particularly in:
+**Full-time / Part-time Junior/Mid-level React Frontend Developer positions** in Germany, particularly in:
 - React & Redux development
 - SaaS product development
 - Agile/Scrum team environments
@@ -245,7 +245,8 @@ Many of my repositories are private due to:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiaRasheedAhmed&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiaRasheedAhmed&show_icons=true&theme=radical&hide=issues&include_all_commits=true)
+
 
 ---
 
