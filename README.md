@@ -245,7 +245,7 @@ Many of my repositories are private due to:
 
 ## 📊 GitHub Activity
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZiaRasheedAhmed&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZiaRasheedAhmed573&theme=radical)
 
 
 ---
