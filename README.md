@@ -243,9 +243,9 @@ Many of my repositories are private due to:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiaRasheedAhmed&show_icons=true&theme=radical&hide=issues&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZiaRasheedAhmed&theme=radical)](https://git.io/streak-stats)
 
 
 ---
