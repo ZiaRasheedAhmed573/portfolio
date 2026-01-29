@@ -245,7 +245,7 @@ Many of my repositories are private due to:
 
 ## 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ZiaRasheedAhmed573)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZiaRasheedAhmed&theme=radical)
 
 
 ---
