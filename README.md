@@ -94,6 +94,14 @@ Real-time monitoring and alerting portal for IoT devices with comprehensive dash
 - ✅ **Decreased unauthorized access attempts by ~40%**
 - ✅ Saved ~2 hours/week in operational efficiency
 
+#### 🖼️ Screenshots
+<img width="1848" height="926" alt="image" src="https://github.com/user-attachments/assets/26a8120a-4cda-4a16-aa8e-6e96dec19e7d" />
+<img width="1912" height="926" alt="image" src="https://github.com/user-attachments/assets/7a6683b8-54cc-4855-b430-2fca0c5dd8de" />
+<img width="1906" height="941" alt="image" src="https://github.com/user-attachments/assets/11ffa588-941e-4a5c-8346-cee20bae0c68" />
+<img width="1916" height="800" alt="image" src="https://github.com/user-attachments/assets/d107e98a-9c85-4972-bb34-b8a93adcb72c" />
+<img width="1913" height="758" alt="image" src="https://github.com/user-attachments/assets/f399cf4c-761b-4904-8ef5-7d022bb6e484" />
+<img width="1907" height="922" alt="image" src="https://github.com/user-attachments/assets/d4511e0c-e471-46c1-8a10-5e2ba6332cbd" />
+
 ---
 
 ### 3️⃣ Desk Dynamics Admin Dashboard
