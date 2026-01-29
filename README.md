@@ -8,10 +8,10 @@
 
 Master's student in **Global Software Development** at Fulda University of Applied Sciences with **2.5+ years** of professional experience in full-stack development. Specializing in **React**, **Redux**, and **Spring Boot** applications with a focus on building scalable, user-centric web solutions.
 
-Currently based in **Germany** and available for full-time positions in **Düsseldorf** and surrounding areas.
+Currently based in **Germany** and available for working student positions.
 
 ### 🎯 Core Expertise
-- Advanced React.js & Redux state management
+- Advanced React.js, Redux & Zustand state management
 - Component-based architecture & reusable design patterns
 - TypeScript, ES6+, and modern JavaScript
 - Responsive UI with Material-UI, SCSS, Tailwind
